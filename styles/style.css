@@ -3,6 +3,11 @@ body{
     background: url('../images/main_bg_3.jpg') no-repeat center;
 }
 
+
+.main{
+  box-shadow:0 0 20px -5px rgb(0 0 0 / 15%) ;
+}
+
 /* SHARED STYLES */
 
 .poppins-regular {
